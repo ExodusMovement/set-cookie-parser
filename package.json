@@ -1,9 +1,12 @@
 {
-  "name": "set-cookie-parser",
-  "version": "2.7.1",
+  "name": "@exodus/set-cookie-parser",
+  "version": "2.7.1-exodus",
   "description": "Parses set-cookie headers into objects",
-  "homepage": "https://github.com/nfriedly/set-cookie-parser",
-  "repository": "nfriedly/set-cookie-parser",
+  "homepage": "https://github.com/ExodusMovmenet/set-cookie-parser",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExodusMovmenet/set-cookie-parser.git"
+  },
   "author": {
     "name": "Nathan Friedly",
     "url": "http://nfriedly.com/"
