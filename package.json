@@ -1,6 +1,6 @@
 {
   "name": "@exodus/set-cookie-parser",
-  "version": "2.7.1-exodus",
+  "version": "2.7.1-exodus.1",
   "description": "Parses set-cookie headers into objects",
   "homepage": "https://github.com/ExodusMovmenet/set-cookie-parser",
   "repository": {
